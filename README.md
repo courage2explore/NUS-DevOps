@@ -11,7 +11,6 @@ List of stuffs we're do and learn here.
 
 * display uploaded image file
 ![](orglogo192.png)
-![](orglogo512.png)
 
 * or
 
