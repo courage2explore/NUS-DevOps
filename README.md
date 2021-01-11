@@ -1,5 +1,6 @@
-# NUS-DevOps
-## This is a test repository.
+# NUS-DevOps (# markdown)
+## This is a test repository. (## markdown)
+### Check the size of this (### markdown)
 
 Some dummy text here.
 
