@@ -16,3 +16,6 @@ or
 
 * display image file directly from a link
 ![](https://raw.githubusercontent.com/hellojoechip/NUS-test-20210111/main/lavo2.png)
+
+
+add something in Google shell
