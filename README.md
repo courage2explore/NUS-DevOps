@@ -9,4 +9,4 @@ List of stuffs we're do and learn here.
 * Blah blah
 * Blah blah black sheep
 
-![](nameofImangeFile.png)
+![](orglogo512.png)
