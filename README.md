@@ -12,7 +12,7 @@ List of stuffs we're do and learn here.
 * display uploaded image file
 ![](orglogo192.png)
 
-* or
+or
 
 * display image file directly from a link
 ![](https://raw.githubusercontent.com/hellojoechip/NUS-test-20210111/main/lavo2.png)
